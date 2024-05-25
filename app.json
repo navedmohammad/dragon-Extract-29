@@ -24,7 +24,7 @@
             "required": true
             "AUTH_USERS": {
         "description": "Comma-separated list of authorized user IDs",
-        "required": false // Make true if it is mandatory
+        "required": true // Make true if it is mandatory
     }
         }
     }
