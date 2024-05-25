@@ -22,6 +22,10 @@
             "description": "Your Bot token from @Botfather",
             "value": "",
             "required": true
+            "AUTH_USERS": {
+        "description": "Comma-separated list of authorized user IDs",
+        "required": false // Make true if it is mandatory
+    }
         }
     }
 
